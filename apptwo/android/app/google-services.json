@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "474603009652",
+    "project_id": "plus-71bea",
+    "storage_bucket": "plus-71bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474603009652:android:d2e40a51d8b887c707c321",
+        "android_client_info": {
+          "package_name": "com.beeman.appone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474603009652-n1keon4k3acn0m1ku1td9f8oqns8ipvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9E88bCWOkC81DQzGKbOSJDGrb3XyflTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474603009652-n1keon4k3acn0m1ku1td9f8oqns8ipvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474603009652-r5la0aoq50ml51huh5mrlitru8ra95li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beeman.appone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474603009652:android:12592e5d5240423707c321",
+        "android_client_info": {
+          "package_name": "com.beeman.apptwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474603009652-n1keon4k3acn0m1ku1td9f8oqns8ipvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9E88bCWOkC81DQzGKbOSJDGrb3XyflTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474603009652-n1keon4k3acn0m1ku1td9f8oqns8ipvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474603009652-r5la0aoq50ml51huh5mrlitru8ra95li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beeman.appone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
